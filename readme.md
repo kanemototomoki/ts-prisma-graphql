@@ -2,6 +2,18 @@
 
 https://zenn.dev/dekimasoon/articles/31f4a740f670af を進めたもの
 
+## コマンド
+
+### APIサーバ起動
+```sh
+npm start
+```
+
+### seed
+```sh
+npm run db:seed
+```
+
 ## 出てくる単語とか
 
 ### Prisma
