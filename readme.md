@@ -27,3 +27,6 @@ npm run db:seed
   - 目的のデータを取得するために複数回リクエストする必要がある
 - GraphQLは最小限のデータのみを取得できる
 - **REST APIでもBFFなどを使えば上記のデメリットは解決できるので、GraphQLが上位互換とは一概には言えない？**
+
+### PlanetGraphQL
+- GraphQL Schema Builder
